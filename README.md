@@ -1,16 +1,16 @@
 # CodeAlpha Credit Scoring Model
 
-## 📌 Project Overview
+## Project Overview
 
 This project is developed as part of the CodeAlpha Machine Learning Internship — Task 1.
 
 The objective is to predict an individual's creditworthiness using historical financial data.
 
-## 🎯 Objective
+## Objective
 
 Build a machine learning classification model that predicts whether a person has good or bad credit risk.
 
-## 📊 Dataset
+## Dataset
 
 The project uses the German Credit Dataset.
 
@@ -19,7 +19,7 @@ The target variable is:
 - 1 → Good Credit
 - 0 → Bad Credit
 
-## 🛠️ Technologies Used
+## Technologies Used
 
 - Python
 - Pandas
@@ -29,7 +29,7 @@ The target variable is:
 - Scikit-learn
 - Google Colab
 
-## 🤖 Machine Learning Models
+## Machine Learning Models
 
 The following models were evaluated:
 
@@ -37,7 +37,7 @@ The following models were evaluated:
 2. Random Forest
 3. Tuned Random Forest using GridSearchCV
 
-## ⚙️ Data Preprocessing
+## Data Preprocessing
 
 The following preprocessing steps were performed:
 
@@ -48,7 +48,7 @@ The following preprocessing steps were performed:
 - Feature scaling for Logistic Regression
 - Handling class imbalance using class weights
 
-## 📈 Model Evaluation
+## Model Evaluation
 
 The models were evaluated using:
 
@@ -59,4 +59,4 @@ The models were evaluated using:
 - ROC-AUC
 - Confusion Matrix
 
-## 🏆 Final Model
+## Final Model
